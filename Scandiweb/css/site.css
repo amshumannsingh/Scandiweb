@@ -1,0 +1,15 @@
+.box{
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+    }
+
+.div {
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.p {
+    margin: 25px 50px 75px 100px;
+}
